@@ -17,7 +17,7 @@ For usage, please refer to the documentation available <a href="https://kellisla
 </br>
 
 <div align="center">
-  <img src="docs/images/Framework.png"
+  <img src="https://raw.githubusercontent.com/KellisLab/Phenoverse/main/docs/images/Framework.png"
        alt="Phenoverse"
        width="700" />
 </div>
