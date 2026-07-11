@@ -1,7 +1,7 @@
 ## Deep interpretable learning of sample representations for characterizing disease states in single-cell transcriptomics
 </br>
 
-[![PyPI version](https://img.shields.io/pypi/v/Phenoverse?color=teal)](https://pypi.org/project/Phenoverse/)
+[![PyPI version](https://img.shields.io/pypi/v/Phenoverse?color=teal&cacheSeconds=300)](https://pypi.org/project/Phenoverse/)
 [![Docs](https://img.shields.io/badge/docs-passing-brightgreen)](https://kellislab.github.io/Phenoverse/)
 ![Python](https://img.shields.io/badge/python-%3E%3D3.12-blue)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/KellisLab/Phenoverse?tab=MIT-1-ov-file#readme)
