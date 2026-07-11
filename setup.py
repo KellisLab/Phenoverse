@@ -11,7 +11,7 @@ from setuptools import setup, find_namespace_packages
 
 setup(
     name="Phenoverse",
-    version="0.1.0",
+    version="0.1.1",
     packages=find_namespace_packages(),
     python_requires='>=3.12',
     install_requires=[
