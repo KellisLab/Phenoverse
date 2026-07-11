@@ -1,0 +1,56 @@
+site_name: Phenoverse
+repo_url: https://github.com/KellisLab/Phenoverse
+repo_name: KellisLab/Phenoverse
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.instant
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+
+extra_javascript:
+  - javascripts/external_links.js
+  - javascripts/search_shortcut.js
+  - javascripts/content_divider.js
+  - javascripts/footer_pin.js
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Tutorial and Analysis:
+    - COVID-19: covid19.md
+  - Contributing: contributing.md
+  - References: references.md
+  - Citing Phenoverse: citation.md
+  - Related Tools: related_tools.md
