@@ -22,9 +22,3 @@ For usage, please refer to the documentation available <a href="https://kellisla
        width="700" />
 </div>
 
-
-## Installation
-
-```bash
-pip install Phenoverse
-```
