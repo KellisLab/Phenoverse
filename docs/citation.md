@@ -1,6 +1,6 @@
 # Citing Phenoverse
 
-> To be added
+> Wagle, M.M., Wang, Y., Samanta, S., Liu, Z., Patrick, E., Yang, P., & Kellis, M. Deep interpretable learning of sample representations for characterizing disease states in single-cell transcriptomics. *bioRxiv* (2026). [[Paper]](https://doi.org/10.1038/s44320-026-00208-7)
 
 <br>
 
