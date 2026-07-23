@@ -23,5 +23,9 @@ For usage, please refer to the documentation available <a href="https://kellisla
 </div>
 
 ## Citation
-To be added
+If you use Phenoverse in your work, please cite:
+
+Wagle, M.M., Wang, Y., Samanta, S., Liu, Z., Patrick, E., Yang, P & Kellis, M. Deep interpretable learning of sample representations for characterizing disease states in single-cell transcriptomics. <i>bioRxiv</i> (2026). [https://doi.org/10.1038/s44320-026-00208-7](https://doi.org/10.64898/2026.07.21.738207)
+
+
 
